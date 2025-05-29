@@ -1,19 +1,24 @@
 {
-  "name": "chaibackend",
+  "name": "chai-aur-code",
   "version": "1.0.0",
-  "description": "a basic app to deploy",
+  "description": "a backend at chai aur code channel - youtube",
   "main": "index.js",
   "scripts": {
-    "start": "node index.js"
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/developer-Manas/chaibackend.git"
   },
   "keywords": [
-    "node",
+    "javascript",
+    "backend",
     "chai"
   ],
-  "author": "manas choudhary",
+  "author": "Hitesh Choudhary",
   "license": "ISC",
-  "dependencies": {
-    "dotenv": "^16.5.0",
-    "express": "^5.1.0"
-  }
+  "bugs": {
+    "url": "https://github.com/developer-Manas/chaibackend/issues"
+  },
+  "homepage": "https://github.com/developer-Manas/chaibackend#readme"
 }
